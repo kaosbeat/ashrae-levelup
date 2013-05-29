@@ -1,0 +1,31 @@
+#dk{
+
+	float: left;
+
+}
+
+#be {
+	float:right;
+}
+
+#fagget_plumber {
+   position: absolute;
+   width: 100px;
+   height: 100px;
+   top:50px;
+}
+
+#fagget_plumber img {
+   width: 100%;
+}
+
+#pipe {
+   position: absolute;
+   /*width: 00px;*/
+   height: 100px;
+   top:150px;
+}
+
+#pipe img {
+   width: 100%;
+}
